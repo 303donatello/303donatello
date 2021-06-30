@@ -4,6 +4,6 @@
 
 # About Me
 - Security Engineer in [JDT](https://www.jddglobal.com/)
-- Blog：https://www.cnblogs.com/303donatello
+
 
 
