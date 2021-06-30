@@ -6,6 +6,4 @@
 - Security Engineer in [JDT](https://www.jddglobal.com/)
 - Blog：https://www.cnblogs.com/303donatello
 
-# 关于我
-- @[JDT](https://www.jddglobal.com/)：主要负责安全相关工作
-- 偶尔会分享文章的博客：https://www.cnblogs.com/303donatello
+
