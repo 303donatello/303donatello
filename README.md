@@ -1,7 +1,11 @@
+
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=000000&center=%E7%9C%9F%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&width=435&lines=%F0%9F%93%A1Who+called+in+the+fleet%3F;Please+don't+answer+%EF%BC%81%F0%9F%9B%B0%EF%B8%8F)](https://git.io/typing-svg)
-
+    <a href="donatello.github.io">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=000000&lines=%F0%9F%93%A1Who+called+in+the+fleet%3F;Please+don't+answer+%EF%BC%81%F0%9F%9B%B0%EF%B8%8F&center=true&size=27" alt="Typing SVG" />
+    </a>
+ </div>
+  
+<div align="center">
  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </div>
 
