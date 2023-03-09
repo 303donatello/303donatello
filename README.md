@@ -16,7 +16,7 @@
 
 
 ## About Me
-- Security Engineer in [JDT](https://www.jdt.com.cn/)
+- Security Engineer @ Beijing
 
 
 
